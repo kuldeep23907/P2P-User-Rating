@@ -854,12 +854,12 @@
     "42": {
       "events": {},
       "links": {},
-      "address": "0xB3016989C52c201c6727C51f92030C2a29141BD9",
-      "transactionHash": "0xe4ea5306221d9e9be800350d6b43f667b40c57b6bc25b735d920bd4f4e5bcf93"
+      "address": "0x5f34Cf9e07F96f33bdDE160bD0861dC456332AE4",
+      "transactionHash": "0x2b7050d8d1acd0fc9ca4c76f90a44f43a4a7f55ea5cc3ffc1f8122fb50be3f8b"
     }
   },
   "schemaVersion": "3.2.5",
-  "updatedAt": "2021-01-02T11:11:53.331Z",
+  "updatedAt": "2021-01-03T08:38:21.587Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
